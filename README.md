@@ -1,1 +1,2 @@
 # HerbalGarden
+A Virtual Herbal Garden is an interactive digital platform that allows users to explore and learn about various medicinal plants used in traditional healing systems like Ayurveda. It provides detailed information on each plant’s benefits, ideal growing conditions, and usage in natural remedies. Users can navigate through 3D models, videos, and quizzes to enhance their understanding, making it a valuable tool for education, research, and promoting awareness of herbal medicine in a visually engaging way.
