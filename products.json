@@ -1,0 +1,1824 @@
+[
+    {
+      "name": "Aloe Vera",
+      "scientific_name": "Aloe barbadensis miller",
+      "image": {
+        "url": "https://www.health.com/thmb/upBe54jyWZTg3WuwmciK27zd-Zg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Health-GettyImages-1475314230-068b30b5f380418b89350af13bdb111c.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Burns",
+        "Skin irritations",
+        "Digestive issues"
+      ],
+      "description": "Aloe Vera is a succulent plant species known for its soothing properties. The gel inside its leaves is commonly used to treat burns, skin irritations, and minor wounds. It also has digestive benefits and can help alleviate constipation and acid reflux when consumed.",
+      "youtube_link": "https://www.youtube.com/watch?v=F06wSDOyIqM&pp=ygUYYWxvZSB2ZXJhIG1lZGljaW5hbCB1c2Vz"
+     
+    },
+    {
+      "name": "Turmeric",
+      "scientific_name": "Curcuma longa",
+      "image": {
+        "url": "https://www.padmamnursery.com/cdn/shop/products/61vZDe-zmxL_360x.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Inflammation",
+        "Arthritis",
+        "Digestive disorders"
+      ],
+      "description": "Turmeric is a bright yellow spice that has been used for centuries in traditional medicine. It contains curcumin, a powerful anti-inflammatory compound that helps with joint pain, arthritis, and digestive issues. Turmeric is also known for its antioxidant properties, which can help protect against chronic diseases.",
+      "youtube_link": "https://www.youtube.com/watch?v=sodfMha0-Wk&pp=ygUXVHVybWVyaWMgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Ginger",
+      "scientific_name": "Zingiber officinale",
+      "image": {
+        "url": "https://cdn.britannica.com/19/231119-050-35483892/Indian-ginger-Zingiber-officinale.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Nausea",
+        "Indigestion",
+        "Respiratory issues"
+      ],
+      "description": "Ginger is a flowering plant whose rhizome, ginger root, is widely used as a spice and a folk medicine. It is particularly effective in treating nausea, whether from motion sickness, morning sickness, or chemotherapy. Ginger also aids digestion and can relieve respiratory issues like colds and coughs.",
+      "youtube_link": "https://www.youtube.com/watch?v=JVaeoVDPdQ4&pp=ygUUR2luZ2UgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Peppermint",
+      "scientific_name": "Mentha \u00d7 piperita",
+      "image": {
+        "url": "https://cdn.britannica.com/46/139046-050-68C68E11/Peppermint.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Irritable bowel syndrome (IBS)",
+        "Headaches",
+        "Cold symptoms"
+      ],
+      "description": "Peppermint is an aromatic herb that is a natural hybrid of watermint and spearmint. The menthol in peppermint can help relieve symptoms of irritable bowel syndrome (IBS), headaches, and colds. It is commonly used in teas and oils to soothe digestive issues and respiratory ailments.",
+      "youtube_link": "https://www.youtube.com/watch?v=4GS2UzQ_zSM&pp=ygUZUGVwcGVybWludCBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Lavender",
+      "scientific_name": "Lavandula angustifolia",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Single_lavender_flower02.jpg/1200px-Single_lavender_flower02.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Anxiety",
+        "Insomnia",
+        "Skin conditions"
+      ],
+      "description": "Lavender is a flowering plant known for its calming and relaxing effects. Its essential oil is widely used in aromatherapy to reduce anxiety, improve sleep, and alleviate symptoms of depression. Lavender also has antiseptic and anti-inflammatory properties, making it useful for treating minor burns, insect bites, and other skin conditions.",
+      "youtube_link": "https://www.youtube.com/watch?v=fj7h5E_E-5w&pp=ygUXTGF2ZW5kZXIgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Chamomile",
+      "scientific_name": "Matricaria chamomilla",
+      "image": {
+        "url": "https://nurserylive.com/cdn/shop/products/nurserylive-seeds-german-chamomile-herb-seeds-16969073852556.jpg?v=1634203965",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Insomnia",
+        "Anxiety",
+        "Digestive issues"
+      ],
+      "description": "Chamomile is a popular herb often consumed as a tea to reduce stress, improve sleep, and soothe digestive upset. It has mild sedative effects, making it effective for treating insomnia and anxiety. Chamomile also has anti-inflammatory properties that can help with conditions like ulcers and colic.",
+      "youtube_link": "https://www.youtube.com/watch?v=SK6bd3iBh7s&pp=ygUYQ2hhbW9taWxlIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Echinacea",
+      "scientific_name": "Echinacea purpurea",
+      "image": {
+        "url": "https://m.media-amazon.com/images/I/71BjlJnLHXL.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Common cold",
+        "Infections",
+        "Immune support"
+      ],
+      "description": "Echinacea is a flowering plant commonly used to boost the immune system. It is believed to reduce the severity and duration of the common cold and other infections. Echinacea contains compounds that increase the number of white blood cells, which fight infections in the body.",
+      "youtube_link": "https://www.youtube.com/watch?v=HcPbo-qcrtc&pp=ygUYRWNoaW5hY2VhIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Ginseng",
+      "scientific_name": "Panax ginseng",
+      "image": {
+        "url": "https://www.bhg.com/thmb/Vs47sUcE_o7xZzd90B73A6QITpE=/4256x0/filters:no_upscale():strip_icc()/GettyImages-471194514-2ed618b4108041cebcab5178237a3628.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Fatigue",
+        "Cognitive function",
+        "Erectile dysfunction"
+      ],
+      "description": "Ginseng is a root that has been used in traditional medicine for centuries. It is known for its ability to boost energy levels, improve cognitive function, and enhance physical performance. Ginseng is also used to treat erectile dysfunction and support overall sexual health.",
+      "youtube_link": "https://www.youtube.com/watch?v=_MmTPC5lz2s&pp=ygUWR2luc2VuZyBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Garlic",
+      "scientific_name": "Allium sativum",
+      "image": {
+        "url": "https://kellogggarden.com/wp-content/uploads/2017/10/growing-garlic-1.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Cardiovascular health",
+        "Immune support",
+        "Infections"
+      ],
+      "description": "Garlic is a potent herb with strong antimicrobial and immune-boosting properties. It is commonly used to improve cardiovascular health by reducing blood pressure and cholesterol levels. Garlic also has antibacterial and antifungal effects, making it useful in fighting infections.",
+      "youtube_link": "https://www.youtube.com/watch?v=LnfPtGxn0MI&pp=ygUVR2FybGljIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Rosemary",
+      "scientific_name": "Salvia rosmarinus",
+      "image": {
+        "url": "https://nurserynisarga.in/wp-content/uploads/2021/05/rosemary-1090419_1920.webp",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Memory enhancement",
+        "Digestive issues",
+        "Hair growth"
+      ],
+      "description": "Rosemary is an aromatic herb often used to improve memory and cognitive function. It also aids digestion and can relieve symptoms like bloating and gas. Rosemary oil is widely used to promote hair growth and improve scalp health.",
+      "youtube_link": "https://www.youtube.com/watch?v=IBvUJluIBu0&pp=ygUXUm9zZW1hcnkgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Sage",
+      "scientific_name": "Salvia officinalis",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0573/3993/6868/t/6/assets/sage-common-main-1695412350324.jpg?v=1695412351",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Cognitive function",
+        "Menopausal symptoms",
+        "Sore throat"
+      ],
+      "description": "Sage is a herb with a long history of use in traditional medicine. It is known for its ability to enhance memory and cognitive function. Sage is also used to relieve menopausal symptoms like hot flashes and night sweats. Additionally, it is effective in treating sore throats and mouth inflammations.",
+      "youtube_link": "https://www.youtube.com/watch?v=pPjG8mu23uM&pp=ygUTU2FnZSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "St. John's Wort",
+      "scientific_name": "Hypericum perforatum",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Saint_John's_wort_flowers.jpg/800px-Saint_John's_wort_flowers.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Depression",
+        "Anxiety",
+        "Mood disorders"
+      ],
+      "description": "St. John's Wort is a plant with yellow flowers that is widely used to treat depression and anxiety. It works by increasing levels of serotonin, a neurotransmitter that regulates mood. St. John's Wort is also used for other mood disorders and can help improve overall mental health.",
+      "youtube_link": "https://www.youtube.com/watch?v=0FlytgadnnY&pp=ygUeU3QuIEpvaG4ncyBXb3J0IG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Elderberry",
+      "scientific_name": "Sambucus nigra",
+      "image": {
+        "url": "https://www.starkbros.com/images/dynamic/5083.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Cold and flu",
+        "Immune support",
+        "Inflammation"
+      ],
+      "description": "Elderberry is a dark purple fruit that has been used in traditional medicine to treat cold and flu symptoms. It is rich in antioxidants and has anti-inflammatory properties that help boost the immune system. Elderberry is often consumed as syrup or tea to reduce the severity and duration of colds.",
+      "youtube_link": "https://www.youtube.com/watch?v=NHiM3trG97A&pp=ygUZRWxkZXJiZXJyeSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Milk Thistle",
+      "scientific_name": "Silybum marianum",
+      "image": {
+        "url": "https://www.thespruce.com/thmb/UzSOfjjakLLdkCJrrCM1VmAyJsw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/growing-milk-thistle-5090128-01-256cc3262eda4b4d9972ac6098d7154e.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Liver health",
+        "Detoxification",
+        "Gallbladder issues"
+      ],
+      "description": "Milk Thistle is a plant known for its liver-protective effects. It contains silymarin, a compound that helps detoxify the liver and protect it from damage caused by toxins, alcohol, and other substances. Milk Thistle is also used to treat gallbladder issues and promote overall liver health.",
+      "youtube_link": "https://www.youtube.com/watch?v=sXxFVQyG4ow&pp=ygUbTWlsayBUaGlzdGxlIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Valerian",
+      "scientific_name": "Valeriana officinalis",
+      "image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/Fbi3jrkypZVfKwNuQMaT7D.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Insomnia",
+        "Anxiety",
+        "Stress"
+      ],
+      "description": "Valerian is a flowering plant whose root is often used as a natural remedy for insomnia and anxiety. It has a sedative effect that can help improve sleep quality and reduce stress. Valerian is commonly consumed as a tea or supplement to promote relaxation and mental well-being.",
+      "youtube_link": "https://www.youtube.com/watch?v=nGBR6EUsCvc&pp=ygUXVmFsZXJpYW4gbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Calendula",
+      "scientific_name": "Calendula officinalis",
+      "image": {
+        "url": "https://imgproxy.infoflora.ch/NQutbob205AFHyqZAfWffg/rs:fill:400:400:1/g:sm/aHR0cHM6Ly93d3cuaW5mb2Zsb3JhLmNoL2ZyLy9hc3NldHMvZGJfZG9jL3NwZWNpZXMvdGF4YV9pbWFnZXMvMjAxMi8wNi8yMC8yMDEyMDYyMDAxMjEzNC04NTM4OTY0NS5qcGc.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Wound healing",
+        "Skin irritations",
+        "Inflammation"
+      ],
+      "description": "Calendula, also known as pot marigold, is a plant with bright orange flowers that has been used for centuries to heal wounds and treat skin irritations. Its anti-inflammatory and antimicrobial properties make it effective in treating minor cuts, burns, and insect bites. Calendula is often used in creams and ointments to promote skin health.",
+      "youtube_link": "https://www.youtube.com/watch?v=Ggg-itOXiY0&pp=ygUYQ2FsZW5kdWxhIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Ashwagandha",
+      "scientific_name": "Withania somnifera",
+      "image": {
+        "url": "https://m.media-amazon.com/images/I/61vfn4o1sCL._AC_UF1000,1000_QL80_.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Stress",
+        "Anxiety",
+        "Immune support"
+      ],
+      "description": "Ashwagandha is an adaptogenic herb that has been used in Ayurvedic medicine for thousands of years. It helps the body adapt to stress and promotes overall mental and physical well-being. Ashwagandha is also known for its immune-boosting properties and can improve energy levels and cognitive function.",
+      "youtube_link": "https://www.youtube.com/watch?v=W_539qjTc1A&pp=ygUXQXNoZ2FuZGggbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Holy Basil",
+      "scientific_name": "Ocimum tenuiflorum",
+      "image": {
+        "url": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/Food-Nutrition/1296x728_Holy_Basil.jpg?w=1155&h=1528",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Stress",
+        "Respiratory issues",
+        "Digestive issues"
+      ],
+      "description": "Holy Basil, also known as Tulsi, is a sacred herb in Ayurvedic medicine. It is revered for its ability to reduce stress and anxiety, support respiratory health, and improve digestion. Holy Basil is often consumed as a tea or supplement to promote overall health and well-being.",
+      "youtube_link": "https://www.youtube.com/watch?v=Ln3W9k9GVIE&pp=ygUZSG9seSBCYXNpbCBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Lemon Balm",
+      "scientific_name": "Melissa officinalis",
+      "image": {
+        "url": "https://cdn.britannica.com/77/124177-004-FEB6DB88/Balm-lemon-balm.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Anxiety",
+        "Insomnia",
+        "Cold sores"
+      ],
+      "description": "Lemon Balm is a lemon-scented herb that has been used for centuries to treat anxiety, insomnia, and digestive issues. It has a calming effect that can help reduce stress and promote sleep. Lemon Balm is also effective in treating cold sores and other herpes-related infections.",
+      "youtube_link": "https://www.youtube.com/watch?v=t9vwqEmbP8A&pp=ygUZbGVtb24gYmFsbCBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Goldenseal",
+      "scientific_name": "Hydrastis canadensis",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hydrastis_canadensis.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Infections",
+        "Digestive issues",
+        "Immune support"
+      ],
+      "description": "Goldenseal is a perennial herb that is often used to treat infections and digestive issues. It contains berberine, a compound with strong antimicrobial properties that can help fight off bacteria, viruses, and fungi. Goldenseal is also used to boost the immune system and improve overall health.",
+      "youtube_link": "https://www.youtube.com/watch?v=I0oDvuNRLeA&pp=ygUZR29sZGVuc2VhbCBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Dandelion",
+      "scientific_name": "Taraxacum officinale",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Common_dandelion_%28Taraxacum_officinale_in_Finnish_voikukka%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Liver health",
+        "Detoxification"
+      ],
+      "description": "Dandelion is a common weed that has been used in traditional medicine for its digestive and detoxifying properties. It is rich in vitamins and minerals and can help improve liver function and support digestion. Dandelion is often consumed as a tea or supplement to promote overall health and well-being.",
+      "youtube_link": "https://www.youtube.com/watch?v=tQANWG6j_CA&pp=ygUYRGFuZGVsaW9uIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Yarrow",
+      "scientific_name": "Achillea millefolium",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Achillea_millefolium_%28bright%29.jpg/220px-Achillea_millefolium_%28bright%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Wound healing",
+        "Digestive issues",
+        "Fever"
+      ],
+      "description": "Yarrow is a flowering plant that has been used for centuries to treat wounds, digestive issues, and fever. It has anti-inflammatory and astringent properties that make it effective in stopping bleeding and promoting wound healing. Yarrow is also used to relieve digestive upset and reduce fever.",
+      "youtube_link": "https://www.youtube.com/watch?v=1SME6fYU8gI&pp=ygUVWWFycm93IG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Licorice Root",
+      "scientific_name": "Glycyrrhiza glabra",
+      "image": {
+        "url": "https://cdn.britannica.com/54/10254-050-291DC744/glycyrrhizin-compound-food-additive-triterpene-glycoside-licorice.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Respiratory issues",
+        "Skin conditions"
+      ],
+      "description": "Licorice Root is a sweet-tasting herb that has been used in traditional medicine to treat digestive and respiratory issues. It has soothing and anti-inflammatory properties that can help relieve symptoms of acid reflux, cough, and sore throat. Licorice Root is also used to treat skin conditions like eczema and psoriasis.",
+      "youtube_link": "https://youtu.be/nXQCY5QfKrY?si=QIE1uKkPToCjpry6"
+    },
+    {
+      "name": "Hawthorn",
+      "scientific_name": "Crataegus monogyna",
+      "image": {
+        "url": "https://cdn.britannica.com/16/140816-050-03FAF99F/Common-hawthorn-flower-plant-fruits-Eurasia-hedge.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Cardiovascular health",
+        "High blood pressure",
+        "Anxiety"
+      ],
+      "description": "Hawthorn is a flowering plant that has been used for centuries to support cardiovascular health. It is known for its ability to improve blood flow, reduce high blood pressure, and strengthen the heart. Hawthorn is also used to treat anxiety and promote overall mental well-being.",
+      "youtube_link": "https://www.youtube.com/watch?v=8Akjss1rpI4&pp=ygUXSGF3dGhvcm4gbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Ginkgo Biloba",
+      "scientific_name": "Ginkgo biloba",
+      "image": {
+        "url": "https://cdn.britannica.com/18/187118-050-848A8F58/leaves-ginkgo-tree.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Memory enhancement",
+        "Cognitive function",
+        "Circulatory issues"
+      ],
+      "description": "Ginkgo Biloba is one of the oldest living tree species and has been used in traditional medicine to enhance memory and cognitive function. It is known for its ability to improve blood circulation, especially to the brain, making it effective in treating conditions like dementia and Alzheimer's disease.",
+      "youtube_link": "https://www.youtube.com/watch?v=lah7yv46Et8&pp=ygUcR2lua2dvIEJpbG9iYSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Fenugreek",
+      "scientific_name": "Trigonella foenum-graecum",
+      "image": {
+        "url": "https://www.agrifarming.in/wp-content/uploads/2021/06/fenugreek-2965214_1280.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Diabetes",
+        "Digestive issues",
+        "Inflammation"
+      ],
+      "description": "Fenugreek is a herb that has been used in traditional medicine to treat diabetes, digestive issues, and inflammation. It is known for its ability to lower blood sugar levels and improve insulin sensitivity. Fenugreek is also used to relieve symptoms of acid reflux, indigestion, and constipation.",
+      "youtube_link": "https://www.youtube.com/watch?v=2fgoP9RmGyI&pp=ygUYZmVudWdyZWVrIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Cinnamon",
+      "scientific_name": "Cinnamomum verum",
+      "image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/ZreoGKr8Cq7vYug7MwdMhP-1200-80.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Diabetes",
+        "Inflammation",
+        "Infections"
+      ],
+      "description": "Cinnamon is a spice that has been used in traditional medicine for its anti-inflammatory and antimicrobial properties. It is particularly effective in managing blood sugar levels, making it useful for people with diabetes. Cinnamon is also used to treat infections and reduce inflammation in the body.",
+      "youtube_link": "https://www.youtube.com/watch?v=0aIroWF9Ig0&pp=ygUXY2lubmFtb24gbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Thyme",
+      "scientific_name": "Thymus vulgaris",
+      "image": {
+        "url": "https://www.thespruce.com/thmb/NwgWg8-NjddC5oZRgZgxNKbCDfg=/5304x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-thyme-1402630-hero-d44ccea3e3604c1db97d23761b25de52.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Respiratory issues",
+        "Digestive issues",
+        "Infections"
+      ],
+      "description": "Thyme is a herb with powerful antimicrobial and antioxidant properties. It is commonly used to treat respiratory issues like coughs, bronchitis, and colds. Thyme is also effective in treating digestive problems like indigestion and bloating. Its antiseptic properties make it useful in fighting infections.",
+      "youtube_link": "https://www.youtube.com/watch?v=mTgZHsXRwa8&pp=ygUUVGh5bWUgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "scientific_name": "Capsicum annuum",
+      "image": {
+        "url": "https://www.thespruce.com/thmb/lT8yhTW1L70JpvDZD8EpHxTfTM8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/choosing-and-growing-hot-peppers-1403380-03-721ab1a0abdf406cb3055703df1acbb4.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Pain relief",
+        "Digestive issues",
+        "Cardiovascular health"
+      ],
+      "description": "Cayenne Pepper is a spicy herb that is known for its ability to relieve pain and improve digestion. It contains capsaicin, a compound that helps reduce pain by blocking pain signals in the body. Cayenne Pepper is also used to improve cardiovascular health by increasing blood circulation and reducing cholesterol levels.",
+      "youtube_link": "https://www.youtube.com/watch?v=mwH6riumXAs&pp=ygUdQ2F5ZW5uZSBQZXBwZXIgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Red Clover",
+      "scientific_name": "Trifolium pratense",
+      "image": {
+        "url": "https://as1.ftcdn.net/v2/jpg/03/78/21/08/1000_F_378210809_FgJmTKINEGCRCc5yaojWKU346aHUnsIt.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Menopausal symptoms",
+        "Bone health",
+        "Skin conditions"
+      ],
+      "description": "Red Clover is a flowering plant that is commonly used to relieve menopausal symptoms like hot flashes and night sweats. It contains isoflavones, which mimic the effects of estrogen in the body. Red Clover is also used to improve bone health and treat skin conditions like eczema and psoriasis.",
+      "youtube_link": "https://www.youtube.com/watch?v=eycihHLoF24&pp=ygUZUmVkIENsb3ZlciBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Nettle",
+      "scientific_name": "Urtica dioica",
+      "image": {
+        "url": "https://cdn.britannica.com/21/196021-050-45CAA3DB/Stinging-nettle.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Allergies",
+        "Joint pain",
+        "Prostate health"
+      ],
+      "description": "Nettle, also known as stinging nettle, is a herb that has been used for centuries to treat allergies, joint pain, and prostate issues. It contains compounds that help reduce inflammation and relieve symptoms of hay fever, arthritis, and benign prostatic hyperplasia (BPH). Nettle is often consumed as a tea or supplement.",
+      "youtube_link": "https://www.youtube.com/watch?v=VfqopMosR9g&t=138s&pp=ygUVTmV0dGxlIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Mullein",
+      "scientific_name": "Verbascum thapsus",
+      "image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/wL36HKtNihjVXAsw5mZ7KG-1024-80.jpg.webp",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Respiratory issues",
+        "Coughs",
+        "Ear infections"
+      ],
+      "description": "Mullein is a herb that has been traditionally used to treat respiratory issues like coughs, bronchitis, and asthma. It has soothing properties that help reduce inflammation and irritation in the respiratory tract. Mullein is also used to treat ear infections and other ear-related issues.",
+      "youtube_link": "https://www.youtube.com/watch?v=btg3x9hCIzg&pp=ygUWTXVsbGVpbiBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Passionflower",
+      "scientific_name": "Passiflora incarnata",
+      "image": {
+        "url": "https://media.houseandgarden.co.uk/photos/62fa5a2236fcbc4f6a417055/master/w_1600,c_limit/K0MDRF.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Anxiety",
+        "Insomnia",
+        "Stress"
+      ],
+      "description": "Passionflower is a climbing vine that is known for its calming and sedative effects. It is commonly used to treat anxiety, insomnia, and stress-related conditions. Passionflower helps increase levels of gamma-aminobutyric acid (GABA) in the brain, which promotes relaxation and improves sleep.",
+      "youtube_link": "https://www.youtube.com/watch?v=pj9kYlwlSE8&t=12s&pp=ygUcUGFzc2lvbmZsb3dlciBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Catnip",
+      "scientific_name": "Nepeta cataria",
+      "image": {
+        "url": "https://www.thespruce.com/thmb/P3fSPUZFjNMi8uEUach4YEs5HUE=/1600x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-catnip-plants-2132328-hero-1eb0d9eb7207442fb104eb783a695ced.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Anxiety",
+        "Insomnia",
+        "Digestive issues"
+      ],
+      "description": "Catnip is a herb that is known for its calming effects on both humans and animals. It is commonly used to treat anxiety, insomnia, and digestive issues like indigestion and bloating. Catnip is often consumed as a tea to promote relaxation and improve sleep quality.",
+      "youtube_link": "https://www.youtube.com/watch?v=LEQPQZL6Vjg&pp=ygUVQ2F0bmlwIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Comfrey",
+      "scientific_name": "Symphytum officinale",
+      "image": {
+        "url": "https://www.thespruce.com/thmb/n9k7ejtDvL1revRa8ujke1pkshY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/growing-comfrey-1402605_01-b3604df2aac145dc99bfe9bcde612dd1.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Wound healing",
+        "Bone fractures",
+        "Inflammation"
+      ],
+      "description": "Comfrey is a herb that has been used for centuries to promote wound healing and treat bone fractures. It contains allantoin, a compound that stimulates cell growth and repair. Comfrey is also used to reduce inflammation and relieve symptoms of arthritis and other inflammatory conditions.",
+      "youtube_link": "https://www.youtube.com/watch?v=FVkMHCHaQd0&pp=ygUWQ29tZnJleSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Fennel",
+      "scientific_name": "Foeniculum vulgare",
+      "image": {
+        "url": "https://utgardens.tennessee.edu/wp-content/uploads/sites/220/2023/03/Antares-Fennel-scaled.jpeg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Menstrual cramps",
+        "Respiratory issues"
+      ],
+      "description": "Fennel is a herb that has been used in traditional medicine to treat digestive issues like indigestion, bloating, and gas. It is also effective in relieving menstrual cramps and improving respiratory health. Fennel seeds are commonly consumed as a tea to promote digestion and relieve symptoms of colds and coughs.",
+      "youtube_link": "https://www.youtube.com/watch?v=eETe-8_pbOQ&pp=ygUVRmVubmVsIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "coriander",
+      "scientific_name": "Coriandrum sativum",
+      "image": {
+        "url": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/09/coriander-cilantro-seeds-herb-1296x728-header-1296x728.jpg?w=1155&h=1528",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "parasite infections",
+        "irritable bowel syndrome (IBS)",
+        "diabetes",
+        "constipation",
+        "anxiety",
+        "skin irritation",
+        "Digestive issues",
+        "Anti-inflammatory",
+        "Antioxidant"
+      ],
+      "description": "Coriander is a hurb that taken by mouth for stomach and intestinal problems including upset stomach, nausea, diarrhea, intestinal gas, constipation, and irritable bowel syndrome (IBS). It is also taken by mouth for convulsions, insomnia, anxiety, and to treat infections caused by bacteria and fungus."
+    },
+    {
+      "name": "Basil",
+      "scientific_name": "Ocimum basilicum",
+      "image": {
+        "url": "https://www.marthastewart.com/thmb/w1f38EKcAYkVTe2JjqIccB7qOeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ms-how-to-grow-basil-69c2254cf454424fbc55992cc8155dbe.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Inflammation",
+        "Antioxidant"
+      ],
+      "description": "Basil is a fragrant herb often used in cooking and traditional medicine. It has anti-inflammatory and antioxidant properties and is used to support digestive health. Basil can also help alleviate symptoms of nausea and stomach cramps.",
+      "youtube_link": "https://www.youtube.com/watch?v=2D_ioNE4X9E&pp=ygUUQmFzaWwgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Oregano",
+      "scientific_name": "Origanum vulgare",
+      "image": {
+        "url": "https://media.karousell.com/media/photos/products/2023/8/8/oregano_herbal_plants_for_sale_1691482487_649f5459_progressive.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Respiratory issues",
+        "Antimicrobial",
+        "Digestive health"
+      ],
+      "description": "Oregano is an herb with strong antimicrobial properties. It is used to support respiratory health and relieve symptoms of coughs and colds. Oregano also aids digestion and can help alleviate bloating and gas.",
+      "youtube_link": "https://www.youtube.com/watch?v=muLmN9QE6hw&pp=ygUWT3JlZ2FubyBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Marjoram",
+      "scientific_name": "Origanum majorana",
+      "image": {
+        "url": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/08/marjoram-1296x728-feature-1296x728.jpg?w=1155&h=1528",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Anxiety",
+        "Pain relief"
+      ],
+      "description": "Marjoram is a herb known for its soothing properties. It is used to relieve digestive discomfort, reduce anxiety, and alleviate minor aches and pains. Marjoram has a calming effect and can also support overall relaxation.",
+      "youtube_link": "https://www.youtube.com/watch?v=dacAbYUpCWI&pp=ygUXTWFyam9yYW0gbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Dill",
+      "scientific_name": "Anethum graveolens",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0573/3993/6868/t/6/assets/dill-waterdroplets-1680276888930.jpg?v=1680276889",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Antimicrobial",
+        "Menstrual cramps"
+      ],
+      "description": "Dill is an herb with digestive and antimicrobial benefits. It helps alleviate symptoms of indigestion and can also be used to relieve menstrual cramps. Dill has a soothing effect on the digestive system and can help reduce bloating and gas.",
+      "youtube_link": "https://www.youtube.com/watch?v=ie2vj8fpCkI&pp=ygUTZGlsbCBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Mustard",
+      "scientific_name": "Brassica spp.",
+      "image": {
+        "url": "https://www.thespruce.com/thmb/zOF8li_lnDRkxC7l04ARmYt_JPg=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/mustard-plant-growing-guide-7377609_01-7dd11987305340b7a79f41d359514096.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive health",
+        "Anti-inflammatory",
+        "Respiratory issues"
+      ],
+      "description": "Mustard hurb are known for their digestive and anti-inflammatory benefits. They can help stimulate digestion and reduce inflammation in the body. Mustard Seeds are also used to treat respiratory issues like asthma and bronchitis.",
+      "youtube_link": "https://www.youtube.com/watch?v=4ROajvw1AkQ&pp=ygUWTXVzdGFyZCBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Cardamom",
+      "scientific_name": "Elettaria cardamomum",
+      "image": {
+        "url": "https://www.jiomart.com/images/product/original/rvziuyebic/cloud-farm-hybrid-elam-ancha-elaichi-cardamom-plant-200-mm-cf_o12-product-images-orvziuyebic-p602994104-1-202307071236.jpg?im=Resize=(1000,1000)",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Respiratory issues",
+        "Antioxidant"
+      ],
+      "description": "Cardamom is a spice with digestive and respiratory benefits. It can help alleviate symptoms of indigestion and improve respiratory health. Cardamom is also known for its antioxidant properties, which help protect the body from oxidative stress.",
+      "youtube_link": "https://www.youtube.com/watch?v=4BP89blQCts&pp=ygUXQ2FyZGFtb20gbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Clove",
+      "scientific_name": "Syzygium aromaticum",
+      "image": {
+        "url": "https://5.imimg.com/data5/SELLER/Default/2022/11/OE/ZC/ED/164273021/clove-plant-1000x1000.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Dental health",
+        "Digestive issues",
+        "Antimicrobial"
+      ],
+      "description": "Clove is a spice with strong antimicrobial and analgesic properties. It is commonly used to support dental health by relieving toothaches and reducing infections. Clove also aids digestion and can help alleviate symptoms of bloating and gas.",
+      "youtube_link": "https://www.youtube.com/watch?v=-C-QIGcwhbs&pp=ygUUQ2xvdmUgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Star Anise",
+      "scientific_name": "Illicium verum",
+      "image": {
+        "url": "https://images.meesho.com/images/products/234932772/tipje_512.webp",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Antimicrobial",
+        "Respiratory issues"
+      ],
+      "description": "Star Anise is a spice with digestive and antimicrobial benefits. It helps relieve symptoms of indigestion and supports respiratory health. Star Anise also has antiviral properties and is used to treat colds and coughs.",
+      "youtube_link": "https://www.youtube.com/watch?v=b235_jNQHM0&pp=ygUZc3RhciBhbmlzZSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Bay Leaf",
+      "scientific_name": "Laurus nobilis",
+      "image": {
+        "url": "https://www.marthastewart.com/thmb/o9fhvSi_nDalFikGqUIKIJS1ukY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/caring-for-bay-leaf-plant-outdoor-lead-getty-0323-2000-157d396a43804ca6b3f9b40497bc0eda.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Anti-inflammatory",
+        "Respiratory issues"
+      ],
+      "description": "Bay Leaf is an herb known for its digestive and anti-inflammatory properties. It helps relieve symptoms of indigestion and supports respiratory health. Bay Leaf is also used to reduce inflammation in the body.",
+      "youtube_link": "https://www.youtube.com/watch?v=BW0n9sGiOVk&pp=ygUXQmF5IExlYWYgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Saffron",
+      "scientific_name": "Crocus sativus",
+      "image": {
+        "url": "https://www.bhg.com/thmb/-wrq5N19ZS0lkP7asl4L9TX8HTY=/4000x0/filters:no_upscale():strip_icc()/saffron-crocus-7557717-1f5e3248a3d5498fb009f377b1390820.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Mood disorders",
+        "Digestive issues",
+        "Anti-inflammatory"
+      ],
+      "description": "Saffron is a spice known for its mood-enhancing and anti-inflammatory properties. It can help alleviate symptoms of depression and anxiety. Saffron also supports digestive health and can reduce inflammation in the body.",
+      "youtube_link": "https://www.youtube.com/watch?v=-ZIRWRCIcEE&pp=ygUWU2FmZnJvbiBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Juniper Berry",
+      "scientific_name": "Juniperus communis",
+      "image": {
+        "url": "https://nativetreesfromseed.com/wp-content/smush-webp/2023/05/juniper-fruits-1024x682.jpg.webp",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Diuretic",
+        "Antimicrobial"
+      ],
+      "description": "Juniper Berry is known for its diuretic and antimicrobial properties. It helps support digestive health and can alleviate symptoms of bloating and gas. Juniper Berry also has antimicrobial effects that can help fight infections.",
+      "youtube_link": "https://www.youtube.com/watch?v=WSgUd510yho&pp=ygUcanVuaXBlciBCZXJyeSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Cumin",
+      "scientific_name": "Cuminum cyminum",
+      "image": {
+        "url": "https://www.marthastewart.com/thmb/wnrXveG3ngwflQqiWBCLVjT-_vQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ms-grow-cumin-getty-e19e11e455b943eb8bcca094de697b4d.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Anti-inflammatory",
+        "Antioxidant"
+      ],
+      "description": "Cumin is a spice with digestive and anti-inflammatory benefits. It helps relieve symptoms of indigestion and supports overall digestive health. Cumin also has antioxidant properties that protect the body from oxidative stress.",
+      "youtube_link": "https://www.youtube.com/watch?v=pWd8BdVpLgk&pp=ygUUY3VtaW4gbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Tarragon",
+      "scientific_name": "Artemisia dracunculus",
+      "image": {
+        "url": "https://bonnieplants.com/cdn/shop/articles/mexican-tarragon-web_43a8fa1e-46f9-4cd4-b941-e525081546e5.jpg?v=1642541626&width=1000",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Appetite stimulation",
+        "Anti-inflammatory"
+      ],
+      "description": "Tarragon is an herb known for its digestive and appetite-stimulating properties. It helps alleviate symptoms of indigestion and supports overall digestive health. Tarragon also has anti-inflammatory effects that can reduce inflammation in the body.",
+      "youtube_link": "https://www.youtube.com/watch?v=Og8wjWuW6CE&pp=ygUXVGFycmFnb24gbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Lovage",
+      "scientific_name": "Levisticum officinale",
+      "image": {
+        "url": "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/06/lovage-herb-1024x684.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Urinary health",
+        "Anti-inflammatory"
+      ],
+      "description": "Lovage is a herb used to support digestive and urinary health. It helps alleviate symptoms of indigestion and supports overall urinary function. Lovage also has anti-inflammatory properties that can reduce inflammation in the body.",
+      "youtube_link": "https://www.youtube.com/watch?v=_-sgiRjtkSI&pp=ygUVTG92YWdlIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Borage",
+      "scientific_name": "Borago officinalis",
+      "image": {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/10/2018/02/75e09bf7-7265-4780-9eb4-5930cb8d098f-9fa7725.jpg?quality=90&resize=940,627",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Skin health",
+        "Anti-inflammatory",
+        "Hormonal balance"
+      ],
+      "description": "Borage is a herb known for its skin-healing and anti-inflammatory properties. It supports skin health and can help alleviate symptoms of eczema and psoriasis. Borage also helps with hormonal balance and reduces inflammation in the body.",
+      "youtube_link": "https://www.youtube.com/watch?v=bbYD0IUmfK4&t=181s&pp=ygUVYm9yYWdlIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Anise",
+      "scientific_name": "Pimpinella anisum",
+      "image": {
+        "url": "https://www.magicgardenseeds.com/media/image/product/2337/lg/anis-pimpinella-anisum-samen.webp",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Digestive issues",
+        "Respiratory issues",
+        "Antimicrobial"
+      ],
+      "description": "Anise is a spice with digestive and antimicrobial benefits. It helps relieve symptoms of indigestion and supports respiratory health. Anise also has antimicrobial properties that can help fight infections.",
+      "youtube_link": "https://www.youtube.com/watch?v=FjmWGZJXADo&pp=ygUUQW5pc2UgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Rosehip",
+      "scientific_name": "Rosa canina",
+      "image": {
+        "url": "https://morningchores.com/wp-content/uploads/2021/12/Uses-for-Rose-Hips.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Immune support",
+        "Skin health",
+        "Anti-inflammatory"
+      ],
+      "description": "Rosehip is known for its high vitamin C content and immune-supporting properties. It supports skin health by promoting collagen production and has anti-inflammatory effects that can reduce inflammation in the body.",
+      "youtube_link": "https://www.youtube.com/watch?v=W9FJx_X9hko&pp=ygUWUm9zZWhpcCBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Hops",
+      "scientific_name": "Humulus lupulus",
+      "image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/8hV3vXffLuCwxsrMpTJNGn.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Insomnia",
+        "Anxiety",
+        "Digestive issues"
+      ],
+      "description": "Hops is a plant known for its sedative properties. It is used to treat insomnia and anxiety, helping to promote relaxation and improve sleep quality. Hops also supports digestive health and can alleviate symptoms of indigestion and bloating.",
+      "youtube_link": "https://www.youtube.com/watch?v=IixZRHi9-9g&pp=ygUTaG9wcyBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Blackberry",
+      "scientific_name": "Rubus fruticosus",
+      "image": {
+        "url": "https://gardenerspath.com/wp-content/uploads/2023/04/How-to-Grow-Blackberries-Featured.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Antioxidant",
+        "Digestive health",
+        "Immune support"
+      ],
+      "description": "Blackberry is rich in antioxidants, such as vitamin C and anthocyanins, which help neutralize free radicals and reduce oxidative stress. This can aid in preventing chronic diseases and support overall health. It promotes digestive health due to its high fiber content, which helps maintain healthy bowel movements and prevent constipation. Additionally, blackberries support immune function by providing essential vitamins and minerals, and have anti-inflammatory properties that can contribute to reducing inflammation and improving overall well-being.",
+      "youtube_link": "https://www.youtube.com/watch?v=cXiKggYNeOY&pp=ygUZYmxhY2tiZXJyeSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Blueberry",
+      "scientific_name": "Vaccinium corymbosum",
+      "image": {
+        "url": "https://5.imimg.com/data5/SELLER/Default/2023/4/299725394/CN/GA/NI/152851849/blueberry-grafted-plant.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Antioxidant",
+        "Cognitive function",
+        "Cardiovascular health"
+      ],
+      "description": "Blueberries are renowned for their high antioxidant content, particularly anthocyanins, which help combat oxidative stress and inflammation. This can contribute to the prevention of chronic diseases and support overall health. Blueberries are also beneficial for cognitive function, as they may improve memory and mental performance. Additionally, they promote cardiovascular health by helping to lower blood pressure and improve cholesterol levels, thus supporting heart health and reducing the risk of heart disease.",
+      "youtube_link": "https://www.youtube.com/watch?v=QgLPUH1K7qc&pp=ygUYYmx1ZWJlcnJ5IG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Adusa",
+      "scientific_name": "Adhatoda vasica Nees",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Adusa_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Cough",
+        "Asthma",
+        "Bronchitis"
+      ],
+      "description": "Adusa is commonly used to treat respiratory conditions such as cough, asthma, and bronchitis. It has expectorant properties that help in clearing mucus from the respiratory tract.",
+      "youtube_link": "https://www.youtube.com/watch?v=FLxMi3s8ijI&pp=ygUUQWR1c2EgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Ananas",
+      "scientific_name": "Ananas comosus",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Pineapple%20%281%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Sore Throat",
+        "Diabetes",
+        "Heart Disease",
+        "Obesity"
+      ],
+      "description": "Ananas, or pineapple, is beneficial for soothing a sore throat and managing diabetes. It has antioxidants that support heart health and can assist in weight management.",
+      "youtube_link": "https://www.youtube.com/watch?v=8UoMcN6yTC0&pp=ygUVQW5hbmFzIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Babool",
+      "scientific_name": "Acacia arabica Willd",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/babool%20%281%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Oral Care",
+        "Bleeding Gums",
+        "Wounds"
+      ],
+      "description": "Babool is used in oral care to treat bleeding gums and minor wounds. Its astringent properties help in healing and maintaining oral hygiene.",
+      "youtube_link": "https://www.youtube.com/watch?v=fFqJHIM2KaQ&pp=ygUVQmFib29sIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Brahmi",
+      "scientific_name": "Bacopa monniera Pennel",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/bacopa%20monnieri_1.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Enhances Memory",
+        "Anxiety"
+      ],
+      "description": "Brahmi is renowned for its cognitive benefits, including memory enhancement and anxiety reduction. It supports mental clarity and emotional well-being.",
+      "youtube_link": "https://www.youtube.com/watch?v=McaQWb6AZg4&pp=ygUVQnJhaG1pIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Dhaniya",
+      "scientific_name": "Coriandrum sativum Linn",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Dhaniya.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Indigestion",
+        "Flatulence",
+        "Controls Spasmodic Pain"
+      ],
+      "description": "Dhaniya, or coriander, is effective in treating indigestion and flatulence. It also helps in controlling spasmodic pain due to its soothing properties.",
+      "youtube_link": "https://www.youtube.com/watch?v=GRFzJwtZNWM&pp=ygUVZGhhbnlhIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Kalmegh",
+      "scientific_name": "Andrographis paniculata",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Kalmegh.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Indigestion",
+        "Acne",
+        "Diarrhea"
+      ],
+      "description": "Kalmegh is used to treat digestive issues like indigestion and diarrhea. It also has properties that help in managing acne.",
+      "youtube_link": "https://www.youtube.com/watch?v=5wUxvhIuBaw&pp=ygUWS2FsbWVnaCBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Lashun",
+      "scientific_name": "Allium sativum",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/lahsun.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Ringworm",
+        "Dysentery",
+        "Wounds"
+      ],
+      "description": "Lashun, or garlic, has antimicrobial properties useful in treating ringworm, dysentery, and minor wounds.",
+      "youtube_link": "https://www.youtube.com/watch?v=tuolXSzTfIc&pp=ygUVTGFzaHVuIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Nagarmotha",
+      "scientific_name": "Cyperus rotundus Linn",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Nagarmotha.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Fever",
+        "Diabetes",
+        "Solar Dermatitis"
+      ],
+      "description": "Nagarmotha is used to manage fever and diabetes. It also helps in treating solar dermatitis, a skin condition caused by sun exposure.",
+      "youtube_link": "https://www.youtube.com/watch?v=gHU4fEPPOyQ&pp=ygUZTmFnYXJtb3RoYSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Punarnava",
+      "scientific_name": "Boerhaavia diffusa Linn",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Punarnava.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Anemia",
+        "Liver Diseases",
+        "Wounds",
+        "Kidney health"
+      ],
+      "description": "Punarnava is used for its diuretic and restorative properties, supporting liver and kidney health, and aiding in the healing of wounds and anemia.",
+      "youtube_link": "https://www.youtube.com/watch?v=e2mEB3yCI00&pp=ygUYUHVuYXJuYXZhIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Shalparni",
+      "scientific_name": "Desmodium gangetium DC",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Shalparni.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Analgesic",
+        "Anti-Inflammatory"
+      ],
+      "description": "Shalparni is known for its analgesic and anti-inflammatory effects, which help in pain relief and reducing inflammation.",
+      "youtube_link": "https://www.youtube.com/watch?v=C5dKWazlPV4&pp=ygUYU2hhbHBhcm5pIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Tulsi",
+      "scientific_name": "Ocimum sanctum Linn",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Tulsi%20%282%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Indigestion",
+        "Heart health",
+        "Respiratory Diseases"
+      ],
+      "description": "Tulsi, or holy basil, supports digestive health, heart health, and respiratory function. It is known for its adaptogenic and therapeutic properties.",
+      "youtube_link": "https://www.youtube.com/watch?v=Ln3W9k9GVIE&pp=ygUUVHVsc2kgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Vridhadaru",
+      "scientific_name": "Argyreia speciosa Sweet",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Vridhadaru.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Diabetes",
+        "Skin Diseases",
+        "Wounds"
+      ],
+      "description": "Vridhadaru is used in managing diabetes, treating skin diseases, and promoting the healing of wounds.",
+      "youtube_link": "https://www.youtube.com/watch?v=U5_TRsq0pE8&pp=ygUZVnJpZGhhZGFydSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Agarkasth",
+      "scientific_name": "Aquilaria agallocha Roxb",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Agarkasth_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Bed-Wetting",
+        "Incontinence of Urinary Bladder"
+      ],
+      "description": "Agarkasth is traditionally used to address issues such as bed-wetting and urinary bladder incontinence.",
+      "youtube_link": "https://www.youtube.com/watch?v=5fu_bqU8q8w&pp=ygUYQWdhcmthc3RoIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Ankol",
+      "scientific_name": "Alangium salvifolium",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Ankol_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Snakebite",
+        "Scorpion Bite",
+        "Dog Bite"
+      ],
+      "description": "Ankol is traditionally used to treat bites from snakes, scorpions, and dogs. It has medicinal properties that aid in mitigating the effects of these bites.",
+      "youtube_link": "https://www.youtube.com/watch?v=ijS0Gg7hImA&pp=ygUUQW5rb2wgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Badi Elaichi",
+      "scientific_name": "Amomum subulatum Pennel",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Badi%20Elaichi%20%281%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Bronchitis",
+        "Asthma",
+        "Appetizer",
+        "Digestant"
+      ],
+      "description": "Badi Elaichi, or greater cardamom, helps in treating bronchitis and asthma. It also acts as an appetizer and aids digestion.",
+      "youtube_link": "https://www.youtube.com/watch?v=sUiYhqC4Hq0&pp=ygUbQmFkaSBFbGFpY2hpIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Chirchita",
+      "scientific_name": "Achyranthes aspera",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Chirchita_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Indigestion",
+        "Cough",
+        "Asthma",
+        "Liver health"
+      ],
+      "description": "Chirchita is used to manage indigestion, cough, and asthma. It also supports liver health.",
+      "youtube_link": "https://www.youtube.com/watch?v=jnesfVBLoQ8&pp=ygUYQ2hpcmNoaXRhIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Elaichi",
+      "scientific_name": "Elettaria cardamomum Maton",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Elaichi_1141965158%20%283%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Nausea",
+        "Vomiting",
+        "Dry Cough"
+      ],
+      "description": "Elaichi, or lesser cardamom, is effective in alleviating nausea, vomiting, and dry cough.",
+      "youtube_link": "https://www.youtube.com/watch?v=4p3GqWfSqv4&pp=ygUWRWxhaWNoaSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Kanghi",
+      "scientific_name": "Abutilon indicum",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Kanghi_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Nervine tonic",
+        "Joint Disorders",
+        "Increases Strength"
+      ],
+      "description": "Kanghi is used as a nervine tonic, helps in joint disorders, and boosts physical strength.",
+      "youtube_link": "https://www.youtube.com/watch?v=u7Hw3_20n9U&pp=ygUVS2FuZ2hpIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Malakangini",
+      "scientific_name": "Celastrus paniculatus Willd",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Malkangni_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Muscle Cramps",
+        "Backache",
+        "Osteoarthritis",
+        "Hair care"
+      ],
+      "description": "Malakangini is used to relieve muscle cramps, backache, and osteoarthritis. It also supports hair care.",
+      "youtube_link": "https://www.youtube.com/watch?v=EcKWg0Qovrs&pp=ygUaTWFsYWthbmdpbmkgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Neem",
+      "scientific_name": "Azadirachta Indica A. Juss",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Neem_1917057650%20%283%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Skin health",
+        "Eye Disorders",
+        "Bloody Nose",
+        "Intestinal Worms"
+      ],
+      "description": "Neem is beneficial for skin health, treating eye disorders, and managing a bloody nose and intestinal worms.",
+      "youtube_link": "https://www.youtube.com/watch?v=ZCq0ZVRWCPQ&pp=ygUTTmVlbSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Pyaj",
+      "scientific_name": "Allium cepa Linn",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Pyaj.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Prostate health",
+        "Digestive"
+      ],
+      "description": "Pyaj, or onion, supports prostate health and aids in digestive processes.",
+      "youtube_link": "https://www.youtube.com/watch?v=uPwiG5t8FiI&pp=ygUTcHlhaiBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Shatavari",
+      "scientific_name": "Asparagus racemosus Willd",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Shatavari_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Infertility",
+        "Loss of Libido",
+        "Uterine health",
+        "Improves Lactation"
+      ],
+      "description": "Shatavari is used to treat infertility, loss of libido, uterine health issues, and to improve lactation.",
+      "youtube_link": "https://www.youtube.com/watch?v=E63R8nx4e4w&pp=ygUYU2hhdGF2YXJpIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Ulatkambal",
+      "scientific_name": "Abroma augustum",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Ulatkambal.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Gynaecological Problems",
+        "Irregularity in Periods"
+      ],
+      "description": "Ulatkambal is used for gynecological problems and irregular menstrual periods.",
+      "youtube_link": "https://www.youtube.com/watch?v=-ANGHPv3_Sc&pp=ygUZVWxhdGthbWJhbCBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Yavasa",
+      "scientific_name": "Alhagi camelorum",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Yavasa_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Rheumatism",
+        "Vomiting",
+        "Stomachache",
+        "Constipation"
+      ],
+      "description": "Yavasa helps in treating rheumatism, vomiting, stomachache, and constipation.",
+      "youtube_link": "https://www.youtube.com/watch?v=uzya-Eh3KKg&pp=ygUVWWF2YXNhIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Akarkara",
+      "scientific_name": "Anacyclus pyrethrum",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Akarkara_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Toothache",
+        "Dryness Of The Mouth",
+        "Throat",
+        "Catarrh",
+        "Loss of libido"
+      ],
+      "description": "Akarkara is used to relieve toothache, dryness of the mouth, throat issues, catarrh, and loss of libido.",
+      "youtube_link": "https://www.youtube.com/watch?v=w249bdpfFns&pp=ygUXQWthcmthcmEgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Ashgandh",
+      "scientific_name": "Withania somnifera Dunal",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Ashwagandha%20%281%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "helps_with": [
+        "Stress Tolerance",
+        "Immunity",
+        "Joint Pains",
+        "Skin health"
+      ],
+      "description": "Ashgandh, or Winter Cherry, is known for its stress-reducing properties, boosting immunity, relieving joint pains, and promoting skin health."
+    },
+    {
+      "name": "Bael",
+      "scientific_name": "Aegle marmelos Corr.",
+      "helps_with": [
+        "Dysentery And Diabetes",
+        "Coolant",
+        "Gut health"
+      ],
+      "description": "Bael, or Bengal Quince, aids in treating dysentery and diabetes, acts as a coolant, and supports gut health.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Bael.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=7cZ8e0OX9RA&pp=ygUTYmFlbCBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Chitrak",
+      "scientific_name": "Plumbago zeylanica Linn",
+      "helps_with": [
+        "Arthritis",
+        "Skin Diseases",
+        "Menstrual Disorders",
+        "Obesity"
+      ],
+      "description": "Chitrak is used for managing arthritis, skin diseases, menstrual disorders, and obesity.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Chitvan.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=Kw-c00nfGUM&pp=ygUWY2hpdHJhayBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Ketaki",
+      "scientific_name": "Costus speciosus (Koeing) Sm.",
+      "helps_with": [
+        "Obesity",
+        "Hyperlipidaemia",
+        "Diabetes"
+      ],
+      "description": "Ketaki, or Crepe Ginger, is used to manage obesity, hyperlipidaemia, and diabetes.",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0252/0904/5067/files/Zanducare_FT_Immage_17_600x600.png?v=1703834930",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=iQcs52xtzGg&pp=ygUVS2V0YWtpIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Mandukparni",
+      "scientific_name": "Centella asiatica Urban",
+      "helps_with": [
+        "Improves memory",
+        "Brain health",
+        "Hair care"
+      ],
+      "description": "Mandukparni, or Gotu Kola, improves memory, supports brain health, and promotes hair care.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Mandukaparni.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=x7aCB-UBDlE&pp=ygUZTWFkdWtwYXJuaSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Palasha",
+      "scientific_name": "Butea monosperma Kuntze",
+      "helps_with": [
+        "Complexion of Skin",
+        "Worm Infestations",
+        "Roundworm"
+      ],
+      "description": "Palasha, or Flame of Forest, is used for improving skin complexion and treating worm infestations and roundworm.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Palasha.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=vET37oMGW2g&pp=ygUWUGFsYXNoYSBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Ratti",
+      "scientific_name": "Abrus Precatorius",
+      "helps_with": [
+        "Joint Pains",
+        "Fungal skin infections",
+        "Alopecia"
+      ],
+      "description": "Ratti, or Rosary Pea, is used to alleviate joint pains, fungal skin infections, and alopecia.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Ratti.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=N7D_TovOheY&pp=ygUUcmF0dGkgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Shirish",
+      "scientific_name": "Albizia lebbeck (Linn) Benth Pennel",
+      "helps_with": [
+        "Bronchial Asthma",
+        "Detoxification"
+      ],
+      "description": "Shirish, or Siris Tree, helps in managing bronchial asthma and supports detoxification.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Shirish.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=Qumt9aCNqYs&pp=ygUOc2hpcmlzaCBwbGFudCA%3D"
+    },
+    {
+      "name": "Bach",
+      "scientific_name": "Acorus calamus",
+      "helps_with": [
+        "Flatulent Colic",
+        "Atonic Dyspepsia",
+        "Ulcers"
+      ],
+      "description": "Bach, or Sweet Flag, is used to treat flatulent colic, atonic dyspepsia, and ulcers.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Bach.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=CNmH862OOfM&pp=ygULYmFjaCBwbGFudCA%3D"
+    },
+    {
+      "name": "Amaltas",
+      "scientific_name": "Cassia fistula Linn",
+      "helps_with": [
+        "Mild laxative",
+        "Ulcers",
+        "Wounds"
+      ],
+      "description": "Amaltas, or Indian Laburnum, functions as a mild laxative, helps with ulcers, and aids in wound healing.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Amaltas%20Plant_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=6E8GfL9yQTc&pp=ygUOQW1hbHRhcyBwbGFudCA%3D"
+    },
+    {
+      "name": "Ashok",
+      "scientific_name": "Saraca indica",
+      "helps_with": [
+        "Menstrual Irregularities",
+        "Uterine Stimulant"
+      ],
+      "description": "Ashok, or Sorrowless Tree, is beneficial for managing menstrual irregularities and acts as a uterine stimulant.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Ashoka.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=4wIR_FoUkvo&pp=ygUMQXNob2sgcGxhbnQg"
+    },
+    {
+      "name": "Bharangi",
+      "scientific_name": "Clerodendron serratum Moon",
+      "helps_with": [
+        "Common Cold",
+        "Chronic Sinusitis",
+        "Allergic Rhinitis"
+      ],
+      "description": "Bharangi is used to treat the common cold, chronic sinusitis, and allergic rhinitis.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Bharangi%20Plant_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=QFz9E8tC1zE&pp=ygUPQmhhcmFuZ2kgcGxhbnQg"
+    },
+    {
+      "name": "Chitvan",
+      "scientific_name": "Alstonia scholaris",
+      "helps_with": [
+        "Skin Ulcers",
+        "Fever",
+        "Increasing Lactation"
+      ],
+      "description": "Chitvan, or Dita, is used for skin ulcers, managing fever, and increasing lactation.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Chitvan.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=WfiwbpssJIU&pp=ygUOQ2hpdHZhbiBwbGFudCA%3D"
+    },
+    {
+      "name": "Guggulu",
+      "scientific_name": "Commiphora mukul Engl",
+      "helps_with": [
+        "Joint Disorders",
+        "Heart Diseases",
+        "Hypolipidaemic"
+      ],
+      "description": "Guggulu, or Indian Bdelium, is used to treat joint disorders, heart diseases, and has hypolipidaemic effects.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Guggulu.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=EMvb3CwAsr0&pp=ygUOR3VnZ3VsdSBwbGFudCA%3D"
+    },
+    {
+      "name": "Kadirkasth",
+      "scientific_name": "Acacia catechu Willd",
+      "helps_with": [
+        "Skin & Respiratory Problems",
+        "Oral Hygiene",
+        "Astringent"
+      ],
+      "description": "Kadirkasth, or Cutch Tree, is effective for skin and respiratory problems, oral hygiene, and has astringent properties.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Kadirkasth%20Plant_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=u4yyXdIulRY&pp=ygURS2FkaXJrYXN0aCBwbGFudCA%3D"
+    },
+    {
+      "name": "Meetha Vish",
+      "scientific_name": "Aconitum ferox",
+      "helps_with": [
+        "Fever",
+        "Diuretic Action",
+        "Arthritis"
+      ],
+      "description": "Meetha Vish, or Monks Hood, is used for managing fever, diuretic action, and arthritis.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Meethavish%20Plant_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=Du0vGNHdqZY&pp=ygUSTWVldGhhIFZpc2ggcGxhbnQg"
+    },
+    {
+      "name": "Patha",
+      "scientific_name": "Cissampelos pareira Linn",
+      "helps_with": [
+        "Ulcers",
+        "Sinuses",
+        "Skin Diseases",
+        "Poisonous Bites"
+      ],
+      "description": "Patha, or Velvet Leaf Tree, helps with ulcers, sinuses, skin diseases, and treating poisonous bites.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Patha%20Plant_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=v=63HMtuFYVAk&pp=ygUMUGF0aGEgcGxhbnQg"
+    },
+    {
+      "name": "Senna",
+      "scientific_name": "Cassia angustifolia Vahl",
+      "helps_with": [
+        "Laxative",
+        "Constipation",
+        "Irritable Bowel Syndrome",
+        "Weight Loss"
+      ],
+      "description": "Senna, or Indian Senna, is a powerful laxative, helps with constipation, irritable bowel syndrome, and weight loss.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Senna%20Plant_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=shTjkAN7NWQ&pp=ygUMc2VubmEgcGxhbnQg"
+    },
+    {
+      "name": "Supari",
+      "scientific_name": "Areca catechu Linn",
+      "helps_with": [
+        "Obesity",
+        "Hyperlipidaemia",
+        "Diabetes",
+        "Irregular Menstruation"
+      ],
+      "description": "Supari, or Areca Nut/Betelnut, aids in managing obesity, hyperlipidaemia, diabetes, and irregular menstruation.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Supari.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=zfmb2GFOAr8&pp=ygUNc3VwYXJpIHBsYW50IA%3D%3D"
+    },
+    {
+      "name": "Vajradanti",
+      "scientific_name": "Barleria prionitis Linn",
+      "helps_with": [
+        "Strengthens Teeth",
+        "Useful in Fever",
+        "Catarrh"
+      ],
+      "description": "Vajradanti, or Barleria, is used to strengthen teeth, manage fever, and treat catarrh.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Vajradanti%20%283%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=cj8Iax6V028&pp=ygUgVmFqcmFkYW50aSBwbGFudCAgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Amla",
+      "scientific_name": "Emblica officinalis Linn",
+      "helps_with": [
+        "Antioxidant",
+        "Antistress",
+        "Constipation",
+        "Fever"
+      ],
+      "description": "Amla, or Indian Gooseberry, is known for its antioxidant properties, stress relief, and aiding in constipation and fever.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Amla%20%281%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=6l0hCoYhVOc&pp=ygUaQW1sYSBwbGFudCAgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Atees",
+      "scientific_name": "Aconitum heterophyllum Wall",
+      "helps_with": [
+        "Fever",
+        "Respiratory"
+      ],
+      "description": "Atees, or Indian Ateech, is used for managing fever and respiratory conditions.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Atees_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=aK4WgXadq38&pp=ygUbQXRlZXMgcGxhbnQgIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Bhojpatra",
+      "scientific_name": "Betula utilis D. Don",
+      "helps_with": [
+        "Wounds",
+        "Obesity"
+      ],
+      "description": "Bhojpatra, or Himalayan Birch, helps in treating wounds and managing obesity.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Bhojpatra.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=hSaW8E6ogGk&pp=ygUfQmhvanBhdHJhIHBsYW50ICBtZWRpY2luYWwgdXNlcw%3D%3D"
+    },
+    {
+      "name": "Dalchini",
+      "scientific_name": "Cinnamomum Zeylanicum Breyn",
+      "helps_with": [
+        "Antibacterial",
+        "Antiseptic"
+      ],
+      "description": "Dalchini, or Bark Cinnamon, has antibacterial and antiseptic properties.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Dalchini%20%281%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=I10V2mR_oT4&pp=ygUeZGFsY2hpbmkgcGxhbnQgIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Jimikand",
+      "scientific_name": "Amorphophallus campanulatus",
+      "helps_with": [
+        "Dysentery",
+        "Piles",
+        "Haemorrhoids"
+      ],
+      "description": "Jimikand, or Elephant Yam, is used to treat dysentery, piles, and haemorrhoids.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Jimikand.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=1o506TkHvEI&pp=ygUeSmltaWthbmQgcGxhbnQgIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Kulanjan",
+      "scientific_name": "Alpinia galanga",
+      "helps_with": [
+        "Flatulence",
+        "Dyspepsia",
+        "Vomiting",
+        "Motion sickness",
+        "Catarrh"
+      ],
+      "description": "Kulanjan, or Greater Galangal, is used for treating flatulence, dyspepsia, vomiting, motion sickness, and catarrh.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Kulanjan%20Plant_0.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=ZevAooIRZ88&pp=ygUeS3VsYW5qYW4gcGxhbnQgIG1lZGljaW5hbCB1c2Vz"
+    },
+    {
+      "name": "Mulethi",
+      "scientific_name": "Glycyrrhiza glabra Linn",
+      "helps_with": [
+        "Digestive Disorders",
+        "Ulcers",
+        "Bronchitis",
+        "Skin health"
+      ],
+      "description": "Mulethi, or Liquorice, is beneficial for digestive disorders, ulcers, bronchitis, and skin health.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Mulethi%20%281%29.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=IR6wtCeVF7g&pp=ygUdTXVsZXRoaSBwbGFudCAgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Pippali",
+      "scientific_name": "Piper longum Linn",
+      "helps_with": [
+        "Asthma",
+        "Cough",
+        "Indigestion"
+      ],
+      "description": "Pippali, or Long Pepper, helps with asthma, cough, and indigestion.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Pippali%201.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=1b9i9HwPKsM&pp=ygUdUGlwcGFsaSBwbGFudCAgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Shalai Guggal",
+      "scientific_name": "Boswellia serrata Roxb.",
+      "helps_with": [
+        "Joint Pains",
+        "Headache",
+        "Diabetes"
+      ],
+      "description": "Shalai Guggal, or Indian Olibanum, is used for relieving joint pains, headaches, and managing diabetes.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Shalai%20Guggal.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=tcKiexMPpWM&pp=ygUjU2hhbGFpIEd1Z2dhbCBwbGFudCAgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Tamalpatra",
+      "scientific_name": "Cinnamomum tamala Nees",
+      "helps_with": [
+        "Diabetes",
+        "Digestion",
+        "Cold"
+      ],
+      "description": "Tamalpatra, or Cinnamon Leaf, aids in managing diabetes, improving digestion, and treating colds.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Tamalpatra.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=tlvHnoqu0PU&pp=ygUgVGFtYWxwYXRyYSBwbGFudCAgbWVkaWNpbmFsIHVzZXM%3D"
+    },
+    {
+      "name": "Varun",
+      "scientific_name": "Crataeva nurvala Buch-Ham",
+      "helps_with": [
+        "Kidney Stones",
+        "Bladder Stones",
+        "Prostate health"
+      ],
+      "description": "Varun, or Three Leafed Caper, is used to treat kidney stones, bladder stones, and support prostate health.",
+      "image": {
+        "url": "https://www.dabur.com/Medical%20Plants/Varun%20Plant.jpg",
+        "width": 800,
+        "height": 600
+      },
+      "youtube_link": "https://www.youtube.com/watch?v=_ECLC8_tdjc&pp=ygUbdmFydW4gcGxhbnQgIG1lZGljaW5hbCB1c2Vz"
+    }
+  ]
